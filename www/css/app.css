@@ -1,0 +1,51 @@
+body {
+    -webkit-touch-callout: none ;
+    -webkit-text-size-adjust: none ; -ms-text-size-adjust: none ;
+    -webkit-user-select: none ; -moz-user-select: none ; -ms-user-select: none ; user-select: none ;
+    -webkit-highlight: none ;
+    -webkit-tap-highlight-color: rgba(0,0,0,0) ;
+    -webkit-tap-highlight-color: transparent ;      /* For some Androids */
+}
+
+html {
+    -ms-touch-action: pan-x ;
+}
+
+body {
+    -ms-touch-action: pan-y ;
+    -ms-content-zooming: none ;
+}
+
+input, textarea  {
+    -webkit-user-select: text ; -moz-user-select: text ; -ms-user-select: text ; user-select: text ;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#dre {
+    text-align: center;
+    font-style: italic;
+    font-size: 8px;
+}
+
+#ugel{
+    text-align: center;
+    font-size: 10px;
+    font-style: italic;
+}
+
+#ie{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#nsc{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
